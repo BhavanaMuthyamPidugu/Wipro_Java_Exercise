@@ -10,6 +10,6 @@ public class NumberSign{
             System.out.println("Zero");
         }else{
             System.out.println("Negative");
-        }
+        }sc.close();
     }
 }

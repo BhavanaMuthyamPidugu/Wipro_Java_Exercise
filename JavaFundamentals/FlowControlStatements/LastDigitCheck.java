@@ -12,5 +12,6 @@ public class LastDigitCheck{
         }else{
             System.out.println("Different i.e. "+r1+" and "+r2);
         }
+        sc.close();
     }
 }
